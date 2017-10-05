@@ -1,0 +1,19 @@
+<application>
+  <component name="SlackStorage">
+    <option name="settings">
+      <map>
+        <entry key="Java Hardcore" value="T0NKBLJKZ/B0NNNAP3P/6qabZZzw8nFJyVOpb53shiKV" />
+      </map>
+    </option>
+    <option name="aliases">
+      <map>
+        <entry key="Java Hardcore" value="Temosh" />
+      </map>
+    </option>
+    <option name="icons">
+      <map>
+        <entry key="Java Hardcore" value=":thunder_cloud_and_rain:" />
+      </map>
+    </option>
+  </component>
+</application>
