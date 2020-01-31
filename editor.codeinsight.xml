@@ -1,0 +1,8 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="ADD_MEMBER_IMPORTS_ON_THE_FLY" value="false" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_ADD_IMPORT_HINTS" value="false" />
+  </component>
+</application>
